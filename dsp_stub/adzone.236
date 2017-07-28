@@ -1,0 +1,27 @@
+{
+  "bidid": "c21e320ff87f4a42af688706442c8355",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "impid": "f2994ac7e5004a6c831f13cc2b92c77c",
+          "adm": "http://m.kejet.net/ms/17630/0b0b0457d.jpg",
+          "id": "327559",
+          "price": 600,
+          "crid": "343764",
+          "nurl": "http://aw.kejet.net/u/letv/r?d=nnxb&i=119.33.7.49&t=BBD64A62-EBA1-46C6-B1A5-DF888F86D27E&f=null&m=A01b&ch=&y=25S-265&v=1499767015&id=n865517-25-171031-55767015327&p=$(DSP_BID_PRICE)$&mp=2&ma=ios_video&mb=1338&mm=1338999",
+          "ext": {
+            "pm": [
+              "http://t.go.sohu.com/cm.gif?mid=10004"
+            ],
+            "cm": [
+              "http://aw.kejet.net/c?&v=1499767015&d=nnxb&c=O6&m=A01b&n=25&ip=119.33.7.49&ch=&ma=ios_video&mp=2&mb=1338&mm=1338999&md=BBD64A62-EBA1-46C6-B1A5-DF888F86D27E&y=25S-265&id=n865517-25-171031-55767015327&g="
+            ],
+            "ldp": "https://tj.91muzhi.com/api/xsdsp?did=BBD64A62-EBA1-46C6-B1A5-DF888F86D27E&delivery_id=327559&app=ios_video&channel=&slot_id=25S-265&os=ios&packet_id=1108518091"
+          }
+        }
+      ]
+    }
+  ],
+  "id": "c21e320ff87f4a42af688706442c8355"
+}

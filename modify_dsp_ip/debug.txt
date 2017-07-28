@@ -1,0 +1,706 @@
+2017-07-17/17:24:23 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:29:09 [DBG] connecting redis127.0.0.11026
+2017-07-17/17:29:27 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:29:27 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:29:50 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:29:50 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:37:15 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:37:15 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:37:15 [DBG] Modify dsp:12
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38012/masky/letv/bid?adxid=10050", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9a1c58c527864f788933051bd70c5076", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png", "qps": 20000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:33
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38033/ltv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png", "token": "353de80247cc41738943a5baba871dcc", "transform_type": 0, "timeoutlimit": [], "qps": 99999, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:48
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38048/dsp", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "e67585144e1b4f3c9877e64e58b6bc1b", "transform_type": 0, "timeoutlimit": [], "icon_url": "", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:5
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38005/r/letv/b", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "4984900d73174248a1215cf8b6f04fbd", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png", "qps": 100000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:63
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9931720415ba4c3eabfbc8c26cffee2d", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:60
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38060/bid/letv", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png", "token": "deb4639aa1bf4a84bf7e0c18aac39ed3", "transform_type": 0, "timeoutlimit": [{"rolltype": 0, "timeout": 500}], "qps": 3000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:17
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38017/bidding/letv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "2adacb6dd162480aa1896d6ab1082729", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:37:15 [DBG] Modify dsp:37
+2017-07-17/17:37:15 [DBG] -->dsp:{"bid_url": "http://127.0.0.1:38005/?pid=17448", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg", "token": "765837a0802f45a099adeb5b1f43f4cd", "transform_type": 0, "timeoutlimit": [{"rolltype": 6, "timeout": 300}, {"rolltype": 0, "timeout": 1500}], "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:44:29 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:44:29 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:44:29 [DBG] Modify dsp:12
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:12
+2017-07-17/17:44:29 [DBG] Modify dsp:33
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:33
+2017-07-17/17:44:29 [DBG] Modify dsp:48
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:48
+2017-07-17/17:44:29 [DBG] Modify dsp:5
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:5
+2017-07-17/17:44:29 [DBG] Modify dsp:63
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:63
+2017-07-17/17:44:29 [DBG] Modify dsp:60
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:60
+2017-07-17/17:44:29 [DBG] Modify dsp:17
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:17
+2017-07-17/17:44:29 [DBG] Modify dsp:37
+2017-07-17/17:44:29 [DBG] cannot parse json for dsp:37
+2017-07-17/17:45:04 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:45:04 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:45:04 [DBG] Modify dsp:12
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:12 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:33
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:33 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:48
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:48 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:5
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:5 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:63
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:63 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:60
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:60 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:17
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:17 err:json: Unmarshal(nil)
+2017-07-17/17:45:04 [DBG] Modify dsp:37
+2017-07-17/17:45:04 [DBG] cannot parse json for dsp:37 err:json: Unmarshal(nil)
+2017-07-17/17:45:45 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:45:45 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:45:45 [DBG] Modify dsp:12
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:12 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38012/masky/letv/bid?adxid=10050", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9a1c58c527864f788933051bd70c5076", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png", "qps": 20000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:33
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:33 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38033/ltv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png", "token": "353de80247cc41738943a5baba871dcc", "transform_type": 0, "timeoutlimit": [], "qps": 99999, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:48
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:48 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38048/dsp", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "e67585144e1b4f3c9877e64e58b6bc1b", "transform_type": 0, "timeoutlimit": [], "icon_url": "", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:5
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:5 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38005/r/letv/b", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "4984900d73174248a1215cf8b6f04fbd", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png", "qps": 100000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:63
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:63 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9931720415ba4c3eabfbc8c26cffee2d", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:60
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:60 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38060/bid/letv", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png", "token": "deb4639aa1bf4a84bf7e0c18aac39ed3", "transform_type": 0, "timeoutlimit": [{"rolltype": 0, "timeout": 500}], "qps": 3000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:17
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:17 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38017/bidding/letv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "2adacb6dd162480aa1896d6ab1082729", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:45:45 [DBG] Modify dsp:37
+2017-07-17/17:45:45 [DBG] cannot parse json for dsp:37 err:json: Unmarshal(nil)dsp_txt{"bid_url": "http://127.0.0.1:38005/?pid=17448", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg", "token": "765837a0802f45a099adeb5b1f43f4cd", "transform_type": 0, "timeoutlimit": [{"rolltype": 6, "timeout": 300}, {"rolltype": 0, "timeout": 1500}], "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:46:13 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:46:13 [DBG] Modify dsp:12
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:12 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38012/masky/letv/bid?adxid=10050", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9a1c58c527864f788933051bd70c5076", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png", "qps": 20000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:33
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:33 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38033/ltv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png", "token": "353de80247cc41738943a5baba871dcc", "transform_type": 0, "timeoutlimit": [], "qps": 99999, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:48
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:48 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38048/dsp", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "e67585144e1b4f3c9877e64e58b6bc1b", "transform_type": 0, "timeoutlimit": [], "icon_url": "", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:5
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:5 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38005/r/letv/b", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "4984900d73174248a1215cf8b6f04fbd", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png", "qps": 100000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:63
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:63 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9931720415ba4c3eabfbc8c26cffee2d", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:60
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:60 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38060/bid/letv", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png", "token": "deb4639aa1bf4a84bf7e0c18aac39ed3", "transform_type": 0, "timeoutlimit": [{"rolltype": 0, "timeout": 500}], "qps": 3000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:17
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:17 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38017/bidding/letv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "2adacb6dd162480aa1896d6ab1082729", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:13 [DBG] Modify dsp:37
+2017-07-17/17:46:13 [DBG] cannot parse json for dsp:37 err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38005/?pid=17448", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg", "token": "765837a0802f45a099adeb5b1f43f4cd", "transform_type": 0, "timeoutlimit": [{"rolltype": 6, "timeout": 300}, {"rolltype": 0, "timeout": 1500}], "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:46:30 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:46:30 [DBG] Modify dsp:12
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38012/masky/letv/bid?adxid=10050", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9a1c58c527864f788933051bd70c5076", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png", "qps": 20000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:33
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38033/ltv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png", "token": "353de80247cc41738943a5baba871dcc", "transform_type": 0, "timeoutlimit": [], "qps": 99999, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:48
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38048/dsp", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "e67585144e1b4f3c9877e64e58b6bc1b", "transform_type": 0, "timeoutlimit": [], "icon_url": "", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:5
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38005/r/letv/b", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "4984900d73174248a1215cf8b6f04fbd", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png", "qps": 100000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:63
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "9931720415ba4c3eabfbc8c26cffee2d", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:60
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38060/bid/letv", "win_notice_encrypted": false, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png", "token": "deb4639aa1bf4a84bf7e0c18aac39ed3", "transform_type": 0, "timeoutlimit": [{"rolltype": 0, "timeout": 500}], "qps": 3000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:17
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38017/bidding/letv", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "token": "2adacb6dd162480aa1896d6ab1082729", "transform_type": 0, "timeoutlimit": [], "icon_url": "http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png", "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:46:30 [DBG] Modify dsp:37
+2017-07-17/17:46:30 [DBG] cannot parse json for dsp:<nil> err:json: Unmarshal(nil)dsp_txt:{"bid_url": "http://127.0.0.1:38005/?pid=17448", "win_notice_encrypted": true, "multi_deal": true, "win_notice_url": "", "show_ad": 1, "use_cookie_mapping": false, "auction_type": 2, "icon_url": "http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg", "token": "765837a0802f45a099adeb5b1f43f4cd", "transform_type": 0, "timeoutlimit": [{"rolltype": 6, "timeout": 300}, {"rolltype": 0, "timeout": 1500}], "qps": 10000, "cookie_mapping_url": "", "use_cdn": 1, "participation_bid": true}
+2017-07-17/17:48:29 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:48:29 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:48:29 [DBG] Modify dsp:12
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:33
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:48
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:5
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:63
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:60
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:17
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:29 [DBG] Modify dsp:37
+2017-07-17/17:48:29 [DBG] {[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:48:53 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:48:53 [DBG] Modify dsp:12
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:33
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:48
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:5
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:63
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:60
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:17
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:48:53 [DBG] Modify dsp:37
+2017-07-17/17:48:53 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:49:23 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:49:23 [DBG] Modify dsp:12
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:33
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:48
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:5
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:63
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:60
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:17
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:23 [DBG] Modify dsp:37
+2017-07-17/17:49:23 [DBG] ====>{[{1 [view add]} {2 [delete add update]}]}
+2017-07-17/17:49:43 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:49:43 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:49:43 [DBG] Modify dsp:12
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:33
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:48
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:5
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:63
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:60
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:17
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:49:43 [DBG] Modify dsp:37
+2017-07-17/17:49:43 [DBG] ====><nil>
+2017-07-17/17:51:03 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:51:03 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:51:03 [DBG] Modify dsp:12
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Mid:2 Actions:[delete add update]]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:33
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Mid:2 Actions:[delete add update]]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:48
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Actions:[delete add update] Mid:2]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:5
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Mid:2 Actions:[delete add update]]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:63
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Actions:[delete add update] Mid:2]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:60
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Actions:[view add] Mid:1] map[Mid:2 Actions:[delete add update]]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:17
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Actions:[delete add update] Mid:2]]]
+2017-07-17/17:51:03 [DBG] Modify dsp:37
+2017-07-17/17:51:03 [DBG] ====>map[ChgArr:[map[Mid:1 Actions:[view add]] map[Mid:2 Actions:[delete add update]]]]
+2017-07-17/17:51:23 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:51:23 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:51:23 [DBG] Modify dsp:12
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38012/masky/letv/bid?adxid=10050
+2017-07-17/17:51:23 [DBG] Modify dsp:33
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38033/ltv
+2017-07-17/17:51:23 [DBG] Modify dsp:48
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38048/dsp
+2017-07-17/17:51:23 [DBG] Modify dsp:5
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38005/r/letv/b
+2017-07-17/17:51:23 [DBG] Modify dsp:63
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/17:51:23 [DBG] Modify dsp:60
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38060/bid/letv
+2017-07-17/17:51:23 [DBG] Modify dsp:17
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38017/bidding/letv
+2017-07-17/17:51:23 [DBG] Modify dsp:37
+2017-07-17/17:51:23 [DBG] -->dsp:http://127.0.0.1:38005/?pid=17448
+2017-07-17/17:53:31 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:53:31 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:53:31 [DBG] Modify dsp:12
+2017-07-17/17:53:31 [DBG] -->dsp:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050
+2017-07-17/17:53:31 [DBG] Modify dsp:33
+2017-07-17/17:53:31 [DBG] -->dsp:http://rtb.yooshu.cn/ltv
+2017-07-17/17:53:31 [DBG] Modify dsp:48
+2017-07-17/17:53:31 [DBG] -->dsp:http://ark.letv.com/dsp
+2017-07-17/17:53:31 [DBG] Modify dsp:5
+2017-07-17/17:53:31 [DBG] -->dsp:http://rtb-l.kejet.net/r/letv/b
+2017-07-17/17:53:31 [DBG] Modify dsp:63
+2017-07-17/17:53:31 [DBG] -->dsp:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/17:53:31 [DBG] Modify dsp:60
+2017-07-17/17:53:31 [DBG] -->dsp:http://mds.vamaker.com/bid/letv
+2017-07-17/17:53:31 [DBG] Modify dsp:17
+2017-07-17/17:53:31 [DBG] -->dsp:http://180.76.184.218:9020/bidding/letv
+2017-07-17/17:53:31 [DBG] Modify dsp:37
+2017-07-17/17:53:31 [DBG] -->dsp:http://rtb.fastapi.net/?pid=17448
+2017-07-17/17:55:17 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:55:17 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:55:17 [DBG] Modify dsp:12
+2017-07-17/17:55:17 [DBG] -->dsp:letv.masky.biddingx.com
+2017-07-17/17:55:17 [DBG] Modify dsp:33
+2017-07-17/17:55:17 [DBG] -->dsp:rtb.yooshu.cn
+2017-07-17/17:55:17 [DBG] Modify dsp:48
+2017-07-17/17:55:17 [DBG] -->dsp:ark.letv.com
+2017-07-17/17:55:17 [DBG] Modify dsp:5
+2017-07-17/17:55:17 [DBG] -->dsp:rtb-l.kejet.net
+2017-07-17/17:55:17 [DBG] Modify dsp:63
+2017-07-17/17:55:17 [DBG] -->dsp:lc.kejet.net
+2017-07-17/17:55:17 [DBG] Modify dsp:60
+2017-07-17/17:55:17 [DBG] -->dsp:mds.vamaker.com
+2017-07-17/17:55:17 [DBG] Modify dsp:17
+2017-07-17/17:55:17 [DBG] -->dsp:180.76.184.218:9020
+2017-07-17/17:55:17 [DBG] Modify dsp:37
+2017-07-17/17:55:17 [DBG] -->dsp:rtb.fastapi.net
+2017-07-17/17:56:18 [DBG] connecting redis127.0.0.11025
+2017-07-17/17:56:18 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/17:56:18 [DBG] Modify dsp:12
+2017-07-17/17:56:18 [DBG] -->dsp:letv.masky.biddingx.com2
+2017-07-17/17:56:18 [DBG] Modify dsp:33
+2017-07-17/17:56:18 [DBG] -->dsp:rtb.yooshu.cn2
+2017-07-17/17:56:18 [DBG] Modify dsp:48
+2017-07-17/17:56:18 [DBG] -->dsp:ark.letv.com2
+2017-07-17/17:56:18 [DBG] Modify dsp:5
+2017-07-17/17:56:18 [DBG] -->dsp:rtb-l.kejet.net1
+2017-07-17/17:56:18 [DBG] Modify dsp:63
+2017-07-17/17:56:18 [DBG] -->dsp:lc.kejet.net2
+2017-07-17/17:56:18 [DBG] Modify dsp:60
+2017-07-17/17:56:18 [DBG] -->dsp:mds.vamaker.com2
+2017-07-17/17:56:18 [DBG] Modify dsp:17
+2017-07-17/17:56:18 [DBG] -->dsp:180.76.184.218:90202
+2017-07-17/17:56:18 [DBG] Modify dsp:37
+2017-07-17/17:56:18 [DBG] -->dsp:rtb.fastapi.net2
+2017-07-17/18:17:43 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:17:43 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:17:43 [DBG] Modify dsp:12
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38012/masky/letv/bid?adxid=10050http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050
+2017-07-17/18:17:43 [DBG] Modify dsp:33
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38033/ltvhttp://rtb.yooshu.cn/ltv
+2017-07-17/18:17:43 [DBG] Modify dsp:48
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38048/dsphttp://ark.letv.com/dsp
+2017-07-17/18:17:43 [DBG] Modify dsp:5
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38005/r/letv/bhttp://rtb-l.kejet.net/r/letv/b
+2017-07-17/18:17:43 [DBG] Modify dsp:63
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNGhttp://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:17:43 [DBG] Modify dsp:60
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38060/bid/letvhttp://mds.vamaker.com/bid/letv
+2017-07-17/18:17:43 [DBG] Modify dsp:17
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38017/bidding/letvhttp://180.76.184.218:9020/bidding/letv
+2017-07-17/18:17:43 [DBG] Modify dsp:37
+2017-07-17/18:17:43 [DBG] -->dsp:http://10.135.30.125:38037/?pid=17448http://rtb.fastapi.net/?pid=17448
+2017-07-17/18:18:19 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:18:19 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:18:19 [DBG] Modify dsp:12
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:18:19 [DBG] Modify dsp:33
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38033/ltv
+2017-07-17/18:18:19 [DBG] Modify dsp:48
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38048/dsp
+2017-07-17/18:18:19 [DBG] Modify dsp:5
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:18:19 [DBG] Modify dsp:63
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:18:19 [DBG] Modify dsp:60
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:18:19 [DBG] Modify dsp:17
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:18:19 [DBG] Modify dsp:37
+2017-07-17/18:18:19 [DBG] -->dsp:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:18:56 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:18:56 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:18:56 [DBG] Modify dsp:12
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38012 masky letv bid?adxid=10050]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:18:56 [DBG] Modify dsp:33
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38033 ltv]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38033/ltv
+2017-07-17/18:18:56 [DBG] Modify dsp:48
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38048 dsp]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38048/dsp
+2017-07-17/18:18:56 [DBG] Modify dsp:5
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38005 r letv b]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:18:56 [DBG] Modify dsp:63
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38063 openrtb?mid=NDBEOTIwRjkxRUU2NUNG]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:18:56 [DBG] Modify dsp:60
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38060 bid letv]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:18:56 [DBG] Modify dsp:17
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38017 bidding letv]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:18:56 [DBG] Modify dsp:37
+2017-07-17/18:18:56 [DBG] -->bid_url_slice:[http:  10.135.30.125:38037 ?pid=17448]
+2017-07-17/18:18:56 [DBG] -->dsp:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:19:14 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:19:14 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:19:14 [DBG] Modify dsp:12
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:19:14 [DBG] Modify dsp:33
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38033/ltv
+2017-07-17/18:19:14 [DBG] Modify dsp:48
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38048/dsp
+2017-07-17/18:19:14 [DBG] Modify dsp:5
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:19:14 [DBG] Modify dsp:63
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:19:14 [DBG] Modify dsp:60
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:19:14 [DBG] Modify dsp:17
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:19:14 [DBG] Modify dsp:37
+2017-07-17/18:19:14 [DBG] -->dsp:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:26:00 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:26:00 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:26:00 [DBG] Modify dsp:12
+2017-07-17/18:26:00 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 101 116 118 46 109 97 115 107 121 46 98 105 100 100 105 110 103 120 46 99 111 109 47 109 97 115 107 121 47 108 101 116 118 47 98 105 100 63 97 100 120 105 100 61 49 48 48 53 48 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 50 47 49 50 45 66 105 100 100 105 110 103 88 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 50 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 97 49 99 53 56 99 53 50 55 56 54 52 102 55 56 56 57 51 51 48 53 49 98 100 55 48 99 53 48 55 54 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:33
+2017-07-17/18:26:00 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 121 111 111 115 104 117 46 99 110 47 108 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 48 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 51 47 51 51 68 83 80 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 57 57 57 57 57 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 51 53 51 100 101 56 48 50 52 55 99 99 52 49 55 51 56 57 52 51 97 53 98 97 98 97 56 55 49 100 99 99 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:48
+2017-07-17/18:26:00 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 97 114 107 46 108 101 116 118 46 99 111 109 47 100 115 112 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 101 54 55 53 56 53 49 52 52 101 49 98 52 102 51 99 57 56 55 55 101 54 52 101 53 56 98 54 98 99 49 98 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:5
+2017-07-17/18:26:00 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 45 108 46 107 101 106 101 116 46 110 101 116 47 114 47 108 101 116 118 47 98 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 52 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 49 51 47 53 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 52 57 56 52 57 48 48 100 55 51 49 55 52 50 52 56 97 49 50 49 53 99 102 56 98 54 102 48 52 102 98 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:63
+2017-07-17/18:26:00 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 99 46 107 101 106 101 116 46 110 101 116 47 111 112 101 110 114 116 98 63 109 105 100 61 78 68 66 69 79 84 73 119 82 106 107 120 82 85 85 50 78 85 78 71 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 55 48 53 47 50 52 47 49 52 47 51 52 47 50 53 45 50 53 45 49 95 121 114 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 57 51 49 55 50 48 52 49 53 98 97 52 99 51 101 97 98 102 98 99 56 99 50 54 99 102 102 101 101 50 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:60
+2017-07-17/18:26:00 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 109 100 115 46 118 97 109 97 107 101 114 46 99 111 109 47 98 105 100 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 53 47 52 53 95 50 53 88 50 53 95 50 48 49 54 48 57 49 52 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 51 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 100 101 98 52 54 51 57 97 97 49 98 102 52 97 56 52 98 102 55 101 48 99 49 56 97 97 99 51 57 101 100 51 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:17
+2017-07-17/18:26:00 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 49 56 48 46 55 54 46 49 56 52 46 50 49 56 58 57 48 50 48 47 98 105 100 100 105 110 103 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 52 47 49 55 95 50 53 88 50 53 95 50 48 49 54 48 57 48 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 50 97 100 97 99 98 54 100 100 49 54 50 52 56 48 97 97 49 56 57 54 100 54 97 98 49 48 56 50 55 50 57 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:00 [DBG] Modify dsp:37
+2017-07-17/18:26:00 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:26:00 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 102 97 115 116 97 112 105 46 110 101 116 47 63 112 105 100 61 49 55 52 52 56 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 55 47 49 53 47 121 105 122 101 46 106 112 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 54 44 34 116 105 109 101 111 117 116 34 58 51 48 48 125 44 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 49 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 55 54 53 56 51 55 97 48 56 48 50 102 52 53 97 48 57 57 97 100 101 98 53 98 49 102 52 51 102 52 99 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:26:25 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:26:25 [DBG] Modify dsp:12
+2017-07-17/18:26:25 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 101 116 118 46 109 97 115 107 121 46 98 105 100 100 105 110 103 120 46 99 111 109 47 109 97 115 107 121 47 108 101 116 118 47 98 105 100 63 97 100 120 105 100 61 49 48 48 53 48 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 50 47 49 50 45 66 105 100 100 105 110 103 88 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 50 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 97 49 99 53 56 99 53 50 55 56 54 52 102 55 56 56 57 51 51 48 53 49 98 100 55 48 99 53 48 55 54 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:33
+2017-07-17/18:26:25 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 121 111 111 115 104 117 46 99 110 47 108 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 48 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 51 47 51 51 68 83 80 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 57 57 57 57 57 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 51 53 51 100 101 56 48 50 52 55 99 99 52 49 55 51 56 57 52 51 97 53 98 97 98 97 56 55 49 100 99 99 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:48
+2017-07-17/18:26:25 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 97 114 107 46 108 101 116 118 46 99 111 109 47 100 115 112 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 101 54 55 53 56 53 49 52 52 101 49 98 52 102 51 99 57 56 55 55 101 54 52 101 53 56 98 54 98 99 49 98 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:5
+2017-07-17/18:26:25 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 45 108 46 107 101 106 101 116 46 110 101 116 47 114 47 108 101 116 118 47 98 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 52 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 49 51 47 53 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 52 57 56 52 57 48 48 100 55 51 49 55 52 50 52 56 97 49 50 49 53 99 102 56 98 54 102 48 52 102 98 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:63
+2017-07-17/18:26:25 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 99 46 107 101 106 101 116 46 110 101 116 47 111 112 101 110 114 116 98 63 109 105 100 61 78 68 66 69 79 84 73 119 82 106 107 120 82 85 85 50 78 85 78 71 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 55 48 53 47 50 52 47 49 52 47 51 52 47 50 53 45 50 53 45 49 95 121 114 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 57 51 49 55 50 48 52 49 53 98 97 52 99 51 101 97 98 102 98 99 56 99 50 54 99 102 102 101 101 50 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:60
+2017-07-17/18:26:25 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 109 100 115 46 118 97 109 97 107 101 114 46 99 111 109 47 98 105 100 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 53 47 52 53 95 50 53 88 50 53 95 50 48 49 54 48 57 49 52 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 51 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 100 101 98 52 54 51 57 97 97 49 98 102 52 97 56 52 98 102 55 101 48 99 49 56 97 97 99 51 57 101 100 51 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:17
+2017-07-17/18:26:25 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 49 56 48 46 55 54 46 49 56 52 46 50 49 56 58 57 48 50 48 47 98 105 100 100 105 110 103 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 52 47 49 55 95 50 53 88 50 53 95 50 48 49 54 48 57 48 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 50 97 100 97 99 98 54 100 100 49 54 50 52 56 48 97 97 49 56 57 54 100 54 97 98 49 48 56 50 55 50 57 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:26:25 [DBG] Modify dsp:37
+2017-07-17/18:26:25 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:26:25 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 102 97 115 116 97 112 105 46 110 101 116 47 63 112 105 100 61 49 55 52 52 56 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 55 47 49 53 47 121 105 122 101 46 106 112 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 54 44 34 116 105 109 101 111 117 116 34 58 51 48 48 125 44 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 49 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 55 54 53 56 51 55 97 48 56 48 50 102 52 53 97 48 57 57 97 100 101 98 53 98 49 102 52 51 102 52 99 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:27:08 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:27:08 [DBG] Modify dsp:12
+2017-07-17/18:27:08 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 101 116 118 46 109 97 115 107 121 46 98 105 100 100 105 110 103 120 46 99 111 109 47 109 97 115 107 121 47 108 101 116 118 47 98 105 100 63 97 100 120 105 100 61 49 48 48 53 48 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 50 47 49 50 45 66 105 100 100 105 110 103 88 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 50 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 97 49 99 53 56 99 53 50 55 56 54 52 102 55 56 56 57 51 51 48 53 49 98 100 55 48 99 53 48 55 54 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:33
+2017-07-17/18:27:08 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 121 111 111 115 104 117 46 99 110 47 108 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 48 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 51 47 51 51 68 83 80 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 57 57 57 57 57 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 51 53 51 100 101 56 48 50 52 55 99 99 52 49 55 51 56 57 52 51 97 53 98 97 98 97 56 55 49 100 99 99 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:48
+2017-07-17/18:27:08 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 97 114 107 46 108 101 116 118 46 99 111 109 47 100 115 112 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 101 54 55 53 56 53 49 52 52 101 49 98 52 102 51 99 57 56 55 55 101 54 52 101 53 56 98 54 98 99 49 98 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:5
+2017-07-17/18:27:08 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 45 108 46 107 101 106 101 116 46 110 101 116 47 114 47 108 101 116 118 47 98 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 49 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 52 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 49 51 47 53 95 50 53 88 50 53 95 50 48 49 54 48 57 48 49 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 52 57 56 52 57 48 48 100 55 51 49 55 52 50 52 56 97 49 50 49 53 99 102 56 98 54 102 48 52 102 98 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:63
+2017-07-17/18:27:08 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 108 99 46 107 101 106 101 116 46 110 101 116 47 111 112 101 110 114 116 98 63 109 105 100 61 78 68 66 69 79 84 73 119 82 106 107 120 82 85 85 50 78 85 78 71 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 55 48 53 47 50 52 47 49 52 47 51 52 47 50 53 45 50 53 45 49 95 121 114 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 57 57 51 49 55 50 48 52 49 53 98 97 52 99 51 101 97 98 102 98 99 56 99 50 54 99 102 102 101 101 50 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:60
+2017-07-17/18:27:08 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 109 100 115 46 118 97 109 97 107 101 114 46 99 111 109 47 98 105 100 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 50 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 55 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 53 53 47 52 53 95 50 53 88 50 53 95 50 48 49 54 48 57 49 52 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 51 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 100 101 98 52 54 51 57 97 97 49 98 102 52 97 56 52 98 102 55 101 48 99 49 56 97 97 99 51 57 101 100 51 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:17
+2017-07-17/18:27:08 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 49 56 48 46 55 54 46 49 56 52 46 50 49 56 58 57 48 50 48 47 98 105 100 100 105 110 103 47 108 101 116 118 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 53 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 54 47 52 52 47 49 55 95 50 53 88 50 53 95 50 48 49 54 48 57 48 46 112 110 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 93 44 34 116 111 107 101 110 34 58 34 50 97 100 97 99 98 54 100 100 49 54 50 52 56 48 97 97 49 56 57 54 100 54 97 98 49 48 56 50 55 50 57 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:27:08 [DBG] Modify dsp:37
+2017-07-17/18:27:08 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:27:08 [DBG] -->dsp:[123 34 97 117 99 116 105 111 110 95 116 121 112 101 34 58 50 44 34 98 105 100 95 117 114 108 34 58 34 104 116 116 112 58 47 47 114 116 98 46 102 97 115 116 97 112 105 46 110 101 116 47 63 112 105 100 61 49 55 52 52 56 34 44 34 99 111 111 107 105 101 95 109 97 112 112 105 110 103 95 117 114 108 34 58 34 34 44 34 105 99 111 110 95 117 114 108 34 58 34 104 116 116 112 58 47 47 105 51 46 108 101 116 118 105 109 103 46 99 111 109 47 108 99 48 49 95 103 117 103 119 108 47 50 48 49 54 48 57 47 50 56 47 49 55 47 49 53 47 121 105 122 101 46 106 112 103 34 44 34 109 117 108 116 105 95 100 101 97 108 34 58 116 114 117 101 44 34 112 97 114 116 105 99 105 112 97 116 105 111 110 95 98 105 100 34 58 116 114 117 101 44 34 113 112 115 34 58 49 48 48 48 48 44 34 115 104 111 119 95 97 100 34 58 49 44 34 116 105 109 101 111 117 116 108 105 109 105 116 34 58 91 123 34 114 111 108 108 116 121 112 101 34 58 54 44 34 116 105 109 101 111 117 116 34 58 51 48 48 125 44 123 34 114 111 108 108 116 121 112 101 34 58 48 44 34 116 105 109 101 111 117 116 34 58 49 53 48 48 125 93 44 34 116 111 107 101 110 34 58 34 55 54 53 56 51 55 97 48 56 48 50 102 52 53 97 48 57 57 97 100 101 98 53 98 49 102 52 51 102 52 99 100 34 44 34 116 114 97 110 115 102 111 114 109 95 116 121 112 101 34 58 48 44 34 117 115 101 95 99 100 110 34 58 49 44 34 117 115 101 95 99 111 111 107 105 101 95 109 97 112 112 105 110 103 34 58 102 97 108 115 101 44 34 119 105 110 95 110 111 116 105 99 101 95 101 110 99 114 121 112 116 101 100 34 58 116 114 117 101 44 34 119 105 110 95 110 111 116 105 99 101 95 117 114 108 34 58 34 34 125]
+2017-07-17/18:29:11 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:29:11 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:29:11 [DBG] Modify dsp:12
+2017-07-17/18:29:11 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:33
+2017-07-17/18:29:11 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://rtb.yooshu.cn/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:48
+2017-07-17/18:29:11 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://ark.letv.com/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:5
+2017-07-17/18:29:11 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://rtb-l.kejet.net/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:63
+2017-07-17/18:29:11 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:60
+2017-07-17/18:29:11 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://mds.vamaker.com/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:17
+2017-07-17/18:29:11 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://180.76.184.218:9020/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:29:11 [DBG] Modify dsp:37
+2017-07-17/18:29:11 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:29:11 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://rtb.fastapi.net/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:30:51 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:30:51 [DBG] Modify dsp:12
+2017-07-17/18:30:51 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:33
+2017-07-17/18:30:51 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:48
+2017-07-17/18:30:51 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:5
+2017-07-17/18:30:51 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:63
+2017-07-17/18:30:51 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:60
+2017-07-17/18:30:51 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:17
+2017-07-17/18:30:51 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:30:51 [DBG] Modify dsp:37
+2017-07-17/18:30:51 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:30:51 [DBG] -->dsp:{"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:35:29 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:35:29 [DBG] Modify dsp:12
+2017-07-17/18:35:29 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:35:29 [DBG] set dsp:12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:33
+2017-07-17/18:35:29 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:35:29 [DBG] set dsp:33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:48
+2017-07-17/18:35:29 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:35:29 [DBG] set dsp:48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:5
+2017-07-17/18:35:29 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:35:29 [DBG] set dsp:5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:63
+2017-07-17/18:35:29 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:35:29 [DBG] set dsp:63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:60
+2017-07-17/18:35:29 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:35:29 [DBG] set dsp:60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:17
+2017-07-17/18:35:29 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:35:29 [DBG] set dsp:17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:29 [DBG] Modify dsp:37
+2017-07-17/18:35:29 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:35:29 [DBG] set dsp:37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:29 [DBG] ====================
+2017-07-17/18:35:47 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:35:47 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:35:47 [DBG] Modify dsp:12
+2017-07-17/18:35:47 [DBG] modify dspid:12old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:35:47 [DBG] set dsp.12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:33
+2017-07-17/18:35:47 [DBG] modify dspid:33old bid_url:http://rtb.yooshu.cn/ltvto new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:35:47 [DBG] set dsp.33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:48
+2017-07-17/18:35:47 [DBG] modify dspid:48old bid_url:http://ark.letv.com/dspto new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:35:47 [DBG] set dsp.48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:5
+2017-07-17/18:35:47 [DBG] modify dspid:5old bid_url:http://rtb-l.kejet.net/r/letv/bto new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:35:47 [DBG] set dsp.5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:63
+2017-07-17/18:35:47 [DBG] modify dspid:63old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNGto new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:35:47 [DBG] set dsp.63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:60
+2017-07-17/18:35:47 [DBG] modify dspid:60old bid_url:http://mds.vamaker.com/bid/letvto new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:35:47 [DBG] set dsp.60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:17
+2017-07-17/18:35:47 [DBG] modify dspid:17old bid_url:http://180.76.184.218:9020/bidding/letvto new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:35:47 [DBG] set dsp.17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:35:47 [DBG] Modify dsp:37
+2017-07-17/18:35:47 [DBG] modify dspid:37old bid_url:http://rtb.fastapi.net/?pid=17448to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:35:47 [DBG] set dsp.37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:35:47 [DBG] ====================
+2017-07-17/18:36:13 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:36:13 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:36:13 [DBG] Modify dsp:12
+2017-07-17/18:36:13 [DBG] modify dspid:12 old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050 to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:36:13 [DBG] set dsp.12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:33
+2017-07-17/18:36:13 [DBG] modify dspid:33 old bid_url:http://rtb.yooshu.cn/ltv to new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:36:13 [DBG] set dsp.33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:48
+2017-07-17/18:36:13 [DBG] modify dspid:48 old bid_url:http://ark.letv.com/dsp to new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:36:13 [DBG] set dsp.48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:5
+2017-07-17/18:36:13 [DBG] modify dspid:5 old bid_url:http://rtb-l.kejet.net/r/letv/b to new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:36:13 [DBG] set dsp.5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:63
+2017-07-17/18:36:13 [DBG] modify dspid:63 old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG to new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:36:13 [DBG] set dsp.63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:60
+2017-07-17/18:36:13 [DBG] modify dspid:60 old bid_url:http://mds.vamaker.com/bid/letv to new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:36:13 [DBG] set dsp.60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:17
+2017-07-17/18:36:13 [DBG] modify dspid:17 old bid_url:http://180.76.184.218:9020/bidding/letv to new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:36:13 [DBG] set dsp.17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:36:13 [DBG] Modify dsp:37
+2017-07-17/18:36:13 [DBG] modify dspid:37 old bid_url:http://rtb.fastapi.net/?pid=17448 to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:36:13 [DBG] set dsp.37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:36:13 [DBG] ====================
+2017-07-17/18:37:19 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:37:19 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:37:19 [DBG] Modify dsp:12
+2017-07-17/18:37:19 [DBG] modify dspid:12 old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050 to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:37:19 [DBG] set dsp.12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:33
+2017-07-17/18:37:19 [DBG] modify dspid:33 old bid_url:http://rtb.yooshu.cn/ltv to new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:37:19 [DBG] set dsp.33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:48
+2017-07-17/18:37:19 [DBG] modify dspid:48 old bid_url:http://ark.letv.com/dsp to new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:37:19 [DBG] set dsp.48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:5
+2017-07-17/18:37:19 [DBG] modify dspid:5 old bid_url:http://rtb-l.kejet.net/r/letv/b to new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:37:19 [DBG] set dsp.5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:63
+2017-07-17/18:37:19 [DBG] modify dspid:63 old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG to new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:37:19 [DBG] set dsp.63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:60
+2017-07-17/18:37:19 [DBG] modify dspid:60 old bid_url:http://mds.vamaker.com/bid/letv to new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:37:19 [DBG] set dsp.60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:17
+2017-07-17/18:37:19 [DBG] modify dspid:17 old bid_url:http://180.76.184.218:9020/bidding/letv to new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:37:19 [DBG] set dsp.17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:37:19 [DBG] Modify dsp:37
+2017-07-17/18:37:19 [DBG] modify dspid:37 old bid_url:http://rtb.fastapi.net/?pid=17448 to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:37:19 [DBG] set dsp.37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:37:19 [DBG] ====================
+2017-07-17/18:39:49 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:39:49 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:39:49 [DBG] Modify dsp:12
+2017-07-17/18:39:49 [DBG] modify dspid:12 old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050 to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:39:49 [DBG] set dsp.12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:33
+2017-07-17/18:39:49 [DBG] modify dspid:33 old bid_url:http://rtb.yooshu.cn/ltv to new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:39:49 [DBG] set dsp.33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:48
+2017-07-17/18:39:49 [DBG] modify dspid:48 old bid_url:http://ark.letv.com/dsp to new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:39:49 [DBG] set dsp.48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:5
+2017-07-17/18:39:49 [DBG] modify dspid:5 old bid_url:http://rtb-l.kejet.net/r/letv/b to new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:39:49 [DBG] set dsp.5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:63
+2017-07-17/18:39:49 [DBG] modify dspid:63 old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG to new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:39:49 [DBG] set dsp.63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:60
+2017-07-17/18:39:49 [DBG] modify dspid:60 old bid_url:http://mds.vamaker.com/bid/letv to new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:39:49 [DBG] set dsp.60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:17
+2017-07-17/18:39:49 [DBG] modify dspid:17 old bid_url:http://180.76.184.218:9020/bidding/letv to new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:39:49 [DBG] set dsp.17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:39:49 [DBG] Modify dsp:37
+2017-07-17/18:39:49 [DBG] modify dspid:37 old bid_url:http://rtb.fastapi.net/?pid=17448 to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:39:49 [DBG] set dsp.37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:39:49 [DBG] READONLY You can't write against a read only slave.
+2017-07-17/18:39:49 [DBG] ====================
+2017-07-17/18:40:16 [DBG] connecting redis127.0.0.11025
+2017-07-17/18:40:16 [DBG] Will modify [12 33 48 5 63 60 17 37]
+2017-07-17/18:40:16 [DBG] Modify dsp:12
+2017-07-17/18:40:16 [DBG] modify dspid:12 old bid_url:http://letv.masky.biddingx.com/masky/letv/bid?adxid=10050 to new bid_url:http://10.135.30.125:38012/masky/letv/bid?adxid=10050
+2017-07-17/18:40:16 [DBG] set dsp.12  {"auction_type":2,"bid_url":"http://10.135.30.125:38012/masky/letv/bid?adxid=10050","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc05_gugwl/201609/28/16/42/12-BiddingX_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":20000,"show_ad":1,"timeoutlimit":[],"token":"9a1c58c527864f788933051bd70c5076","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:33
+2017-07-17/18:40:16 [DBG] modify dspid:33 old bid_url:http://rtb.yooshu.cn/ltv to new bid_url:http://10.135.30.125:38033/ltv
+2017-07-17/18:40:16 [DBG] set dsp.33  {"auction_type":2,"bid_url":"http://10.135.30.125:38033/ltv","cookie_mapping_url":"","icon_url":"http://i0.letvimg.com/lc07_gugwl/201609/28/16/53/33DSP_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":99999,"show_ad":1,"timeoutlimit":[],"token":"353de80247cc41738943a5baba871dcc","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:48
+2017-07-17/18:40:16 [DBG] modify dspid:48 old bid_url:http://ark.letv.com/dsp to new bid_url:http://10.135.30.125:38048/dsp
+2017-07-17/18:40:16 [DBG] set dsp.48  {"auction_type":2,"bid_url":"http://10.135.30.125:38048/dsp","cookie_mapping_url":"","icon_url":"","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"e67585144e1b4f3c9877e64e58b6bc1b","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:5
+2017-07-17/18:40:16 [DBG] modify dspid:5 old bid_url:http://rtb-l.kejet.net/r/letv/b to new bid_url:http://10.135.30.125:38005/r/letv/b
+2017-07-17/18:40:16 [DBG] set dsp.5  {"auction_type":2,"bid_url":"http://10.135.30.125:38005/r/letv/b","cookie_mapping_url":"","icon_url":"http://i1.letvimg.com/lc04_gugwl/201609/28/16/13/5_25X25_20160901.png","multi_deal":true,"participation_bid":true,"qps":100000,"show_ad":1,"timeoutlimit":[],"token":"4984900d73174248a1215cf8b6f04fbd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:63
+2017-07-17/18:40:16 [DBG] modify dspid:63 old bid_url:http://lc.kejet.net/openrtb?mid=NDBEOTIwRjkxRUU2NUNG to new bid_url:http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG
+2017-07-17/18:40:16 [DBG] set dsp.63  {"auction_type":2,"bid_url":"http://10.135.30.125:38063/openrtb?mid=NDBEOTIwRjkxRUU2NUNG","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc01_gugwl/201705/24/14/34/25-25-1_yr.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"9931720415ba4c3eabfbc8c26cffee2d","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:60
+2017-07-17/18:40:16 [DBG] modify dspid:60 old bid_url:http://mds.vamaker.com/bid/letv to new bid_url:http://10.135.30.125:38060/bid/letv
+2017-07-17/18:40:16 [DBG] set dsp.60  {"auction_type":2,"bid_url":"http://10.135.30.125:38060/bid/letv","cookie_mapping_url":"","icon_url":"http://i2.letvimg.com/lc07_gugwl/201609/28/16/55/45_25X25_20160914.png","multi_deal":true,"participation_bid":true,"qps":3000,"show_ad":1,"timeoutlimit":[{"rolltype":0,"timeout":500}],"token":"deb4639aa1bf4a84bf7e0c18aac39ed3","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":false,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:17
+2017-07-17/18:40:16 [DBG] modify dspid:17 old bid_url:http://180.76.184.218:9020/bidding/letv to new bid_url:http://10.135.30.125:38017/bidding/letv
+2017-07-17/18:40:16 [DBG] set dsp.17  {"auction_type":2,"bid_url":"http://10.135.30.125:38017/bidding/letv","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc05_gugwl/201609/28/16/44/17_25X25_2016090.png","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[],"token":"2adacb6dd162480aa1896d6ab1082729","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================
+2017-07-17/18:40:16 [DBG] Modify dsp:37
+2017-07-17/18:40:16 [DBG] modify dspid:37 old bid_url:http://rtb.fastapi.net/?pid=17448 to new bid_url:http://10.135.30.125:38037/?pid=17448
+2017-07-17/18:40:16 [DBG] set dsp.37  {"auction_type":2,"bid_url":"http://10.135.30.125:38037/?pid=17448","cookie_mapping_url":"","icon_url":"http://i3.letvimg.com/lc01_gugwl/201609/28/17/15/yize.jpg","multi_deal":true,"participation_bid":true,"qps":10000,"show_ad":1,"timeoutlimit":[{"rolltype":6,"timeout":300},{"rolltype":0,"timeout":1500}],"token":"765837a0802f45a099adeb5b1f43f4cd","transform_type":0,"use_cdn":1,"use_cookie_mapping":false,"win_notice_encrypted":true,"win_notice_url":""}
+2017-07-17/18:40:16 [DBG] OK
+2017-07-17/18:40:16 [DBG] ====================

@@ -1,0 +1,119 @@
+{
+  "vast": {
+    "Ad": [
+      {
+        "InLine": {
+          "Extensions": {
+            "Extension": [
+              {
+                "Linear": {
+                  "Extension": {
+                    "cdata": "",
+                    "type": "creative_extension"
+                  }
+                }
+              }
+            ]
+          },
+          "Creatives": {
+            "Creative": [
+              {
+                "Linear": {
+                  "VideoClicks": {
+                    "ClickTracking": [
+                      {
+                        "cdata": "http://letv.m.cn.miaozhen.com/r/k=2053462&p=77amA&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&ro=sm&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&o=",
+                        "type": "2"
+                      },
+                      {
+                        "cdata": "http://ark.letv.com/et?a=2&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=9a069be54544ade2269d2f3c70ff0a591600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2"
+                      }
+                    ],
+                    "ClickThrough": {
+                      "cdata": "http://pmptrack-letv.gentags.net/letv/ck?oadest=https%3A%2F%2Fm.chevrolet.com.cn%2Fact%2Fequinox%2Fonstar%2F%3Futm_source%3DLetv%26utm_medium%3DHS-201707392_INT110_15614223_HDTC23%26utm_content%3DSGMMRK2017000171%26utm_campaign%3DSP-CH1700514_15614223%26mz_ca%3D2053462%26mz_sp%3D77amA%26mz_sb%3D1%26uniext%3DNWJmOWQzMjc4M2M3NGMxZmFhZjkxZjcwNmJhNDcwOGRfXzEx&bidid=031873c33304407b82c2ff78dbbc068a&bcc_type=2&pid=91&bcc_id=572&crt_id=9224&mtid=29415&uid=5bf9d32783c74c1faaf91f706ba4708d&uidt=cookie_ori&dealid=21740&region=1156500000&city=1156500000&fq=1&fqday=28&fqjoin=9221&hyusr=148544B7052508590AE64B&vusr=10000074&dmp=0&ta=0&aud=5bf9d32783c74c1faaf91f706ba4708d_2&pl=3&check=3861517815"
+                    }
+                  },
+                  "Icons": {
+                    "Icon": {
+                      "ShowAd": 1,
+                      "cdata": "http://i2.letvimg.com/lc01_gugwl/201702/06/10/25/hy-25-25.jpg"
+                    }
+                  },
+                  "AdParameters": {
+                    "cdata": "{}",
+                    "xmlEncoded": "false"
+                  },
+                  "TrackingEvents": {
+                    "Tracking": [
+                      {
+                        "cdata": "https://ark.letv.com/et?a=3&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=3b94a70c55cbd851e308d22ed64c80f61600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2",
+                        "event": "start"
+                      },
+                      {
+                        "cdata": "https://ark.letv.com/et?a=4&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=770294be616e0fc81ec2306b6c142a6a1600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2",
+                        "event": "firstQuartile"
+                      },
+                      {
+                        "cdata": "https://ark.letv.com/et?a=5&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=d37c18bf55ad76c48cbc18bd84b5faee1600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2",
+                        "event": "midpoint"
+                      },
+                      {
+                        "cdata": "https://ark.letv.com/et?a=6&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=07bb914d6e70c200fcad3263e2a8eaa31600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2",
+                        "event": "thirdQuartile"
+                      },
+                      {
+                        "cdata": "https://ark.letv.com/et?a=7&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=4494bb0deea5ee7020ef6de86ea3ad2a1600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac=",
+                        "type": "2",
+                        "event": "complete"
+                      }
+                    ]
+                  },
+                  "MediaFiles": {
+                    "MediaFile": {
+                      "apiFramework": "",
+                      "cdata": "http://g3.letv.com/vod/v1/MjU3LzcvOTMvbGV0di1ndWcvMTcvdmVyXzAwXzIyLTExMTA1MzMyOTQtYXZjLTI1NDc1OC1hYWMtMzIwMzEtMjk4MDAtMTEwMjQwMy1iYmY3NjdhZjZlMzI3MjEyMzBkYzE0YjViNjZlMmNiMC0xNTAwNDU1NjU0MzU3Lm1wNA==?platid=100&splatid=10000&gugtype=1&mmsid=67739&type=185",
+                      "height": 360,
+                      "width": 640,
+                      "type": "video/mp4",
+                      "delivery": "progressive",
+                      "id": 67739
+                    }
+                  },
+                  "Duration": 30
+                }
+              }
+            ]
+          },
+          "Impression": [
+            {
+              "type": "2",
+              "cdata": "http://letv.m.cn.miaozhen.com/x/k=2053462&p=77amA&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&mo=__OS__&m0=__OPENUDID__&m0a=__DUID__&m1=__ANDROIDID1__&m1a=__ANDROIDID__&m2=__IMEI__&m4=__AAID__&m5=__IDFA__&m6=__MAC1__&m6a=__MAC__&o="
+            },
+            {
+              "type": "2",
+              "cdata": "http://ark.letv.com/et?a=1&b=5bf9d32783c74c1faaf91f706ba4708d&c=1&d=1&e=91&f=40&g=99c02b13e9da4f84b0a2e17064d18a1e&h=67739&i=1501051916&j=bbe26c7c0d0a2201bfec3d2f8b55f6fe1600e05c40279d9e06610d8ea9314e47&k=&l=118&m=1511756&n=219.152.0.116&o=1&p=21740&q=1156500000&s=&t=&w=3010&x=1&y=6&z=222112&au=1035236667368136&v=1&aa=&ab=&ac="
+            },
+            {
+              "type": "2",
+              "cdata": "http://pmptrack-letv.gentags.net/letv/win?dsp_bid_id=0&dsp_bid_imp_id=0&price=lF4wlbAmOiXBfy06vQO9QQ%3D%3D&bidid=031873c33304407b82c2ff78dbbc068a&bcc_type=2&pid=91&bcc_id=572&crt_id=9224&mtid=29415&uid=5bf9d32783c74c1faaf91f706ba4708d&uidt=cookie_ori&dealid=21740&region=1156500000&city=1156500000&fq=1&fqday=28&fqjoin=9221&hyusr=148544B7052508590AE64B&vusr=10000074&dmp=0&ta=0&aud=5bf9d32783c74c1faaf91f706ba4708d_2&pl=3&check=3861517815"
+            }
+          ],
+          "AdSystem": {
+            "cdata": "letv exchange",
+            "version": "1"
+          }
+        },
+        "date": "2017-07-26",
+        "id": "91"
+      }
+    ],
+    "cuid": "5bf9d32783c74c1faaf91f706ba4708d",
+    "code": "",
+    "version": "3.0"
+  }
+}

@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+HOST	modify_dsp.py	/^      HOST=redis_host,$/;"	v
+PORT	modify_dsp.py	/^      PORT=redis_port)$/;"	v
+dsp_list	modify_dsp.py	/^dsp_list = [12, 33, 48, 5, 63, 60, 17, 12, 37]$/;"	v
+json	modify_dsp.py	/^import json$/;"	i
+modify_dsp	modify_dsp.py	/^def modify_dsp(dsp, pOld):$/;"	f
+r	modify_dsp.py	/^r = redis.Redis(host=redis_host, port=redis_port,db=0)$/;"	v
+redis	modify_dsp.py	/^import redis$/;"	i
+redis_host	modify_dsp.py	/^redis_host = "127.0.0.1"$/;"	v
+redis_port	modify_dsp.py	/^redis_port = 1025$/;"	v
